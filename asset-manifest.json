@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f1f07a40.css",
-    "main.js": "/react-gh-pages/static/js/main.fcf1205f.js",
-    "static/js/787.bbe01249.chunk.js": "/react-gh-pages/static/js/787.bbe01249.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.f1f07a40.css.map": "/react-gh-pages/static/css/main.f1f07a40.css.map",
-    "main.fcf1205f.js.map": "/react-gh-pages/static/js/main.fcf1205f.js.map",
-    "787.bbe01249.chunk.js.map": "/react-gh-pages/static/js/787.bbe01249.chunk.js.map"
+    "main.css": "/Veillesue-Website/static/css/main.f1f07a40.css",
+    "main.js": "/Veillesue-Website/static/js/main.7ab62043.js",
+    "static/js/787.bbe01249.chunk.js": "/Veillesue-Website/static/js/787.bbe01249.chunk.js",
+    "index.html": "/Veillesue-Website/index.html",
+    "main.f1f07a40.css.map": "/Veillesue-Website/static/css/main.f1f07a40.css.map",
+    "main.7ab62043.js.map": "/Veillesue-Website/static/js/main.7ab62043.js.map",
+    "787.bbe01249.chunk.js.map": "/Veillesue-Website/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1f07a40.css",
-    "static/js/main.fcf1205f.js"
+    "static/js/main.7ab62043.js"
   ]
 }
